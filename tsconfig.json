@@ -1,0 +1,15 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "out/cv.js",
+        "sourceMap": true,
+        "target": "es5"
+    },
+    "files": [
+        "src/cv.ts"
+    ]
+}
