@@ -97,7 +97,7 @@ nav > a{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: calc(4.5em + 25px);
+    min-height: calc(4.5em + 25px);
     padding-left: 9px;
     margin-bottom: 15px;
     border: thin solid #ccc;
