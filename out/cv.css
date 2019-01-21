@@ -8,6 +8,8 @@ body{
     width: 100%;
     margin-right: auto;
     margin-left: auto;
+    background:url("vs.jpg") no-repeat scroll;
+    background-position-x: 50%;
 }
 header {
     display: flex;
@@ -85,6 +87,7 @@ nav > a{
     margin-bottom: 15px;
     border: thin solid #ccc;
     pointer-events: none;
+    background: #fff;
 }
 
 nav > a > section {
